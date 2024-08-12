@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    font-family: 'Lato', sans-serif;
+    background-color: var(--co-white);
+}
+
+.container{
+    max-width: 1400px;
+    padding: 0 10px;
+}
