@@ -26,7 +26,7 @@
     font-weight: 400;
 }
 
-.hero_content{
+.hero_content .btn{
     width: 230px;
     height: 65px;
 }
@@ -49,6 +49,6 @@
     }
     .hero_title{
         font-size: 45px;
-        max-width: 330px
+        max-width: 350px
     }
 }
