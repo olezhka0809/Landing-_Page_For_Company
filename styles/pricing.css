@@ -1,0 +1,37 @@
+.pricing {
+    padding: 95px 0 145px 0;
+    background-color: var(--co-dark-green);
+
+}
+
+.pricing_content {
+    padding: 0 0 0 30px;
+    color: var(--co-white);
+}
+
+.pricing_title {
+    font-size: 40px;
+    font-weight: 900;
+
+}
+
+.footer_nav {
+    margin: 65px 0 0 0;
+}
+
+.footer_nav_list {
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: start;
+    row-gap: 60px;
+}
+
+.footer_nav_items {
+
+}
+
+.footer_nav_link {
+    font-size: 25px;
+    font-weight: 600;
+}
